@@ -3,7 +3,7 @@
 
 My personal website. You can visit it [here](https://ricovz.com).
 
-[<img src="https://i.imgur.com/agyuU1h.png">](mhttps://ricovz.com)
+[<img src="https://i.imgur.com/agyuU1h.png">](https://ricovz.com)
 
 Contact me:
 <br>
